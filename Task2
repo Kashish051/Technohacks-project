@@ -1,0 +1,49 @@
+                                        REPORT ON EMAIL ANALYSIS  
+   
+INTRODUCTION : This report analyzes a sample email for potential security threats and identifies red flags that indicates phishing attempts. The objective is to provide insights on how to recognize and avoid such attacks.
+ 
+ANALYSIS : Account Verification Is Needed Immediately
+
+Sample email :
+From: security@micros0ft-support.com
+To: user@example.com
+Subject: Urgent: Verify Your Microsoft Account
+Dear User,
+We have detected unusual activity on your Microsoft account. To secure your account, please verify your identity by clicking the link below:
+[Verify Now](http://fake-link.com/verify)
+Failure to verify your identity within 24 hours will result in account suspension.
+Thank you,
+Microsoft Support Team
+© 2024 Microsoft Corporation. All rights reserved.
+
+These are red flags
+1. Use of Fear and Urgency: The email uses fear and urgency to get the reader to act right now.
+Subject line :"Urgent: Verify Your Microsoft Account"
+Red Flag: The subject line uses urgent language to create a sense of panic, prompting the recipient to act quickly without thinking. Legitimate companies typically avoid creating unnecessary alarm.
+2. Generic Greeting:.Legitimate emails from companies often address recipients by their name. A generic greeting ("Dear User") at the beginning of the email suggests that it is not personalized.
+3.URL Verification : The hyperlink points to a suspicious URL that does not belong to Microsoft. Hovering over the link reveals a domain that is not associated with Microsoft. Always check URLs carefully before clicking, and verify that they belong to the legitimate domain of the organization.
+4. Unusual Sender Address:
+From: security@micros0ft-support.com
+Red Flag: The email address uses a deceptive domain (micros0ft-support.com) with a zero instead of an "o" in "microsoft." Legitimate emails from Microsoft would come from a verified domain like "microsoft.com."Even if the sender address seems legal, it's crucial to properly check the sender's legitimacy.
+How to Avoid such Attacks:
+1.Verify Sender Information
+Check the Email Address: Ensure that the sender's email address is legitimate and from a verified domain.
+Look for Misspellings: Be cautious of email addresses with minor misspellings or altered characters (e.g., "micros0ft" instead of "microsoft").
+
+2.Analyze the Subject Line
+Avoid Panic: Be wary of subject lines that create a sense of urgency or fear. Take the time to evaluate the email carefully.
+
+3.Inspect Links
+Hover Over Links: Before clicking any link, hover over it to see the actual URL. Ensure it matches the legitimate domain of the organization.
+Use Official Channels: Instead of clicking links in emails, navigate to the company's website directly through your browser to verify any claims.
+
+4.Evaluate the Greeting
+Personalization: Legitimate emails usually address you by your name. Be cautious of generic greetings.
+
+5.Assess the Content
+Look for Alarming Language: Be skeptical of emails that use threats or urgent language to prompt immediate action.
+Check for Errors: Phishing emails often contain spelling and grammatical errors. Legitimate organizations typically have high standards for communication.
+6.Enable Security Features
+Two-Factor Authentication: Enable two-factor authentication (2FA) on your accounts to add an extra layer of security.
+Use Anti-Phishing Tools: Install and maintain anti-phishing software and keep your security software up to date
+
