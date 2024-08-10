@@ -1,0 +1,41 @@
+                               PASSWORD POLICY FOR A COMPANY
+
+INTRODUCTION : A password policy is a formal structure that outlines rules and regulations around the establishment and use of passwords by staff members. These guidelines specify requirements for things like the shortest password length, password composition and complexity, periods between expirations, safe storage practices, and other relevant variables. Strong password policies are essential safeguards for digital assets, whether you are a sole proprietor or an organization. By preventing unwanted access to accounts and systems, they strengthen the defenses against cyber-attacks.
+
+ Purpose:
+The purpose of this password policy is to establish a standard for creating strong and unique passwords to protect company resources and sensitive information from unauthorized access.
+
+1. Minimum Password Complexity:Require a mix of upper and lower case letters , numbers , and special characters.
+Alphabetical letters
+Uppercase characters (A - Z)
+Lowercase characters(a - z)
+The digits 0 through 9.
+Special characters (such as!, @, #, $, %, ^, &, *)
+2. Expiration:Password should be changed regularly , typically every 60 - 90 day passwords.
+3. Account Lockout Procedure:
+A 30-minute account lockout will occur after five unsuccessful attempts to log in within a 15-minute window.
+Send users an email notification if their account is locked after several unsuccessful login attempts.
+4. Verification with Multiple Factors (MFA):
+MFA needs to be enabled during account setup and is required for all accounts.
+Options are available for users to select from. options for secondary authentication, such as , authenticator apps, or SMS codes.
+5. Storage and Transmission of Passwords:
+Using industry-standard cryptographic hashing techniques and different salts for every user, securely store passwords.
+Make sure that all password transmissions take place via HTTPS or other encrypted protocols.
+6. Awareness and Education of Users:
+Organize training workshops on a regular basis to inform users of the value of strong and distinctive passwords.
+Promote the creation and safe storage of complicated passwords via the use of password managers.
+7.Avoid common passwords:
+All ten of the user's prior passwords cannot be used again.
+8. Frequent Reviews and Audits:
+This policy will be reviewed annually and updated as necessary to address new threats and changes in technology.
+ Regular audits will be conducted to ensure compliance with this password policy and to identify any areas of improvement.
+9. Access for Administrators:
+Restrict administrative access to only those who are authorized. All administrative accounts should have strong, individual password requirements that conform to the same standards as regular user accounts.
+10. Retrieve Password:
+To stop illegal access to accounts, implement a secure password recovery process with several verification components.
+11. Observation and Reaction to Incidents:
+Keep an eye out for odd trends in login attempts and account activity that can point to unauthorized access.
+Establish a clear incident response strategy to quickly handle any password-related security issues.
+12.Password Sharing Prohibition: 
+Passwords must not be shared with anyone, including supervisors, colleagues, or IT staffs.
+
